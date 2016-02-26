@@ -2,6 +2,7 @@
   "version": "1.0.0-*",
   "authors": [ "Mohammad Rahhal" ],
   "tags": [ "sql", "query", "builder" ],
+  "description": "An sql query builder as a helper when manually writing queries.",
   "projectUrl": "https://github.com/mrahhal/MR.QueryBuilder",
   "licenseUrl": "https://github.com/mrahhal/MR.QueryBuilder/blob/master/LICENSE.txt",
 
