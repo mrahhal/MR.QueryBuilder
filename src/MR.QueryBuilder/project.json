@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0-*",
+  "authors": [ "Mohammad Rahhal" ],
+  "tags": [ "sql", "query", "builder" ],
+  "projectUrl": "https://github.com/mrahhal/MR.QueryBuilder",
+  "licenseUrl": "https://github.com/mrahhal/MR.QueryBuilder/blob/master/LICENSE.txt",
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-rc2-23728",
+        "System.Collections": "4.0.11-rc2-23728",
+        "System.Collections.Concurrent": "4.0.11-rc2-23728",
+        "System.Linq": "4.0.1-rc2-23728",
+        "System.Runtime": "4.0.21-rc2-23728",
+        "System.Threading": "4.0.11-rc2-23728"
+      }
+    }
+  }
+}
